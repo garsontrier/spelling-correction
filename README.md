@@ -3,9 +3,11 @@ Spelling Error Correction based on Noisy Channel Model
 
 This is a mini project completed in March 2020 for Introduction to Information Retrieval Course in Bogazici University.
 
-Damerau-Levenshtein edit distance was used and results are reported for with and without add-1 smoothing(Laplace smoothing with &#945;=1)
+Damerau-Levenshtein edit distance was used and results are reported with and without add-1 smoothing (Laplace smoothing with &#945;=1)
 
-Corpus is taken from [Peter Norvig’s web site](http://norvig.com/big.txt)
+Confusion matrix for each
+
+Corpus is taken from [Peter Norvig’s website](http://norvig.com/big.txt)
 
 Author: Mansur Yeşilbursa
 
@@ -18,6 +20,8 @@ numpy
 math
 matplotlib
 sys
+pandas
+seaborn
 
 spelling_correction.py should be placed in a folder that is a subdirectory of the folder that contains
 all the other files. (datasets, test sets etc.) 
