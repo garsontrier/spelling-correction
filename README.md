@@ -5,8 +5,6 @@ This is a mini project completed in March 2020 for Introduction to Information R
 
 Damerau-Levenshtein edit distance was used and results are reported with and without add-1 smoothing (Laplace smoothing with &#945;=1)
 
-Confusion matrix for each
-
 Corpus is taken from [Peter Norvig’s website](http://norvig.com/big.txt)
 
 Author: Mansur Yeşilbursa
